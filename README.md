@@ -1,4 +1,4 @@
-# awesome-ai
+# awesome-AI
 
 ChatGPT： https://chat.openai.com/
 
